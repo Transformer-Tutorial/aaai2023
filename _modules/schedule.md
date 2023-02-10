@@ -2,10 +2,10 @@
 title: Paper reading list and presenters
 ---
 
-Session 1
+
 : The Transformer Architecture and its Variants
   : [Neil Houlsby](https://neilhoulsby.github.io/)
-: 1. [Slides]()
+  : [Slides]()
 
 Session 2
 : How to Train Your (Vision) Transformer?
