@@ -1,5 +1,5 @@
 ---
-title: Paper reading list and presenters
+title: Lecture slides
 ---
 
 1
