@@ -5,7 +5,7 @@ title: Lecture slides
 1
 : The Transformer Architecture and its Variants
   : [Neil Houlsby](https://neilhoulsby.github.io/)
-: [Slides]()
+: [Slides](https://drive.google.com/file/d/1PZwsYFlZz0ugjgM8qArUjjKnhq4l4Kgf/view?usp=sharing)
 
 2
 : How to Train Your (Vision) Transformer?
